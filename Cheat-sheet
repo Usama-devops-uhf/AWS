@@ -1,0 +1,70 @@
+Compute
+EC2: Scalable virtual servers in the cloud.
+Lambda: Serverless compute service that automatically scales.
+ECS: Container orchestration service.
+EKS: Managed Kubernetes on AWS
+
+Storage
+S3: Scalable object storage.
+EBS: Block storage for use with EC2.
+EFS and FSx: Managed file storage.
+
+Networking
+VPC: Isolated cloud resources (VPC, Peering Connections, Transit Gateways)
+ELB: Distributes incoming application traffic.
+Route 53: Scalable domain name system (DNS) web service.
+
+Databases
+RDS: Managed relational database service.
+Aurora: High-performance managed relational database.
+DynamoDB: NoSQL database.
+
+Content Delivery
+CloudFront: Content delivery network (CDN) service for fast delivery of data, videos, applications, and APIs.
+Global Accelerator: Improve the availability and performance of your applications with global network optimization.
+
+Serverless
+Lambda: Serverless compute service.
+API Gateway: Create, publish, and secure APIs.
+Fargate: Serverless containers.
+EventBridge: Serverless event bus for integrating services.
+SQS: Managed message queuing service.
+SNS: Managed messaging and notification service.
+
+Operations
+CloudWatch: Monitoring and observability service for AWS resources and applications.
+CloudTrail: Log AWS account activity.
+Systems Manager: Operational insights and management.
+Organizations: Centralized management of multiple AWS accounts.
+Config: Continuous monitoring and assessment of AWS resource configurations.
+
+Security
+IAM: Manage access to AWS services.
+KMS: Manage encryption keys.
+Network Firewall: Managed firewall for network protection.
+Automation and DevOps
+CloudFormation: Infrastructure as code.
+CodeBuild: Continuous integration service that compiles source code, runs tests, and produces software packages.
+CodePipeline: Continuous delivery service for fast and reliable application updates.
+
+Migration and BCDR
+DMS: Database migration service.
+SMS: Server migration service.
+Snowball: Transfer data in and out of AWS.
+Storage Gateway: Hybrid cloud storage connecting on-premises to AWS.
+DataSync: Accelerates data transfer between on-premises and AWS.
+AWS Backup: Centralized backup service for AWS and on-premises resources.
+
+End User
+WorkSpaces: Managed virtual desktop service.
+AppStream 2.0: Stream desktop applications securely.
+WorkDocs: Secure enterprise storage and sharing.
+Analytics
+Redshift: Fast, scalable data warehouse.
+EMR: Managed big data service.
+Athena: Serverless, interactive query service.
+
+AI and ML
+Bedrock: Service for building and scaling generative AI applications using large language models (LLMs).
+SageMaker: Build, train, and deploy machine learning models.
+Rekognition: Image and video analysis.
